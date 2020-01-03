@@ -12,7 +12,7 @@
 × install curl,php,ruby,lolcat
 
 (WARNING)
-1. You must follow instructions from they
+1. You must follow instructions from tools
 
 2. Your data instagram must be fresh with Email & Number Your Phone
 
